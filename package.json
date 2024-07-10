@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://whgustj00.github.io/MovieApp_React_Practice/"
+  "homepage": "https://whgustj00.github.io/MovieApp_React_Practice",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
 }
